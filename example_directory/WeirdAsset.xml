@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ZettaClipboard Version="0.0.0" MessageType="1">
+  <Station StationID="1" Name="Radio Western" Active="true" Comment="Radio Western 94.9 FM Broadcast" StationRole="PRIMARY" UniversalIdentifier="6d8a0ad7-93f0-4c87-b8e0-ee573f0b973b" CallLetters="CHRW" EnterpriseStationId="CHRW-FM" />
+  <LogEvents>
+    <LogEvent LogEventID="0" LogGroupID="0" Sequence="0" LogEventEntryTypeID="106" AirStarttime="2022-09-22T20:39:11.9205949Z" AirStarttimeLocal="2022-09-22 4:39:11 PM" StatusCode="2">
+      <AssetEvent>
+        <Asset AssetID="0" AssetTypeID="1" Title="Stay Faithless" MetadataScope="1">
+          <Artist ArtistID="0" ArtistTypeID="0" Name="39 Steps" />
+        </Asset>
+      </AssetEvent>
+    </LogEvent>
+  </LogEvents>
+</ZettaClipboard>

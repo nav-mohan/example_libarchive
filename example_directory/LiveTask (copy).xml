@@ -1,0 +1,18 @@
+<?xml version='1.0' encoding='utf-8'?>
+<ZettaClipboard Version='0.0.0' MessageType='0'>
+  <Station StationID='1' Name='Radio Western' Active='true' Comment='Radio Western 94.9 FM Broadcast' StationRole='PRIMARY' UniversalIdentifier='6d8a0ad7-93f0-4c87-b8e0-ee573f0b973b' CallLetters='CHRW' EnterpriseStationId='CHRW-FM' />
+  <LogEvents>
+    <LogEvent UniversalIdentifier='b1210891-49bc-40d7-82b7-719e48732b9b' LogEventID='391252' LogGroupID='15531' Sequence='1.5' LogEventEntryTypeID='21' Description='' AirStarttime='2022-09-22T21:58:58Z' AirStarttimeLocal='2022-09-22 5:58:58 PM' AirStoptimeLocal='2022-09-22 5:58:58 PM' EntryValue1='0' EntryData='' ChainType='1' StatusCode='1' EditCode='204' ErrorCode='0' DynamicType='1' ParentTypeID='104' ParentName='History of Us' ParentDuration='0' ChildEventCount='0' IsChildEvent='false'>
+      <LogGroup LogGroupID='15531' LogGroupTypeID='103' LogID='911' Sequence='1' Hour='0'>
+        <LogHeader LogID='911' LogTypeID='0' Date='2022-09-22T00:00:00.0000000-04:00' />
+      </LogGroup>
+      <Task TaskCommandID='384' TaskType='16001' Enabled='true' Name='' ParamB='1' ParamString='&lt;BillBoardSend Title=&quot;History of Us&quot; Artist=&quot;Steve Kopp&quot; Composer=&quot;Live Music Show&quot; /&gt;' StationID='1' PlayerStreamID='1' Comment='LiveMetadata.Send [ Station: Radio Western   Title: History of Us, Artist: Steve Kopp, Composer: Live Music Show ]' PlayerRendererId='8' />
+    </LogEvent>
+    <LogEvent UniversalIdentifier='d5a4efe9-423e-ed11-9026-dfd61a1620b1' LogEventID='571708' LogGroupID='25518' Sequence='25' LogEventEntryTypeID='21' Description='' AirStarttime='2022-09-28T15:58:57Z' AirStarttimeLocal='2022-09-28 11:58:57 AM' AirStoptime='2023-09-28T15:58:57Z' AirStoptimeLocal='2022-09-28 11:58:57 AM' EntryValue1='0' EntryData='' ChainType='1' StatusCode='1' EditCode='0' ErrorCode='0' TimingType='1' IsFixed='false' DynamicType='1' IsChildEvent='false'>
+      <LogGroup LogGroupID='25518' LogGroupTypeID='101' LogID='1318' Sequence='11' Hour='11'>
+        <LogHeader LogID='1318' LogTypeID='0' Date='2022-09-28T00:00:00.0000000-04:00'/>
+      </LogGroup>
+      <Task TaskCommandID='2761' TaskType='1005' Enabled='false' Name='' ParamA='3' Comment='Sequencer.SetMode [ Station: &lt; Current Station &gt; Mode: Live Assist ]'/>
+    </LogEvent>
+  </LogEvents>
+</ZettaClipboard>

@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ZettaClipboard Version="0.0.0" MessageType="0">
+  <Station StationID="1" Name="Radio Western" Active="true" Comment="Radio Western 94.9 FM Broadcast" StationRole="PRIMARY" UniversalIdentifier="6d8a0ad7-93f0-4c87-b8e0-ee573f0b973b" CallLetters="CHRW" EnterpriseStationId="CHRW-FM" />
+  <LogEvents>
+    <LogEvent UniversalIdentifier="ccc1e7ed-8b39-ed11-9026-dfd61a1620b1" LogEventID="568702" LogGroupID="25351" Sequence="10" LogEventEntryTypeID="106" Description="For The Love of Tabla Album - RW Paid Ads" AirStarttime="2022-09-22T19:59:26Z" AirStarttimeLocal="2022-09-22 3:59:26 PM" AirStoptime="2022-09-22T19:59:56Z" AirStoptimeLocal="2022-09-22 3:59:56 PM" EntryValue1="0" EntryData="" ChainType="1" StatusCode="2" EditCode="0" ErrorCode="0" TimingType="1" IsFixed="false" DynamicType="1" IsChildEvent="false">
+      <LogGroup LogGroupID="25351" LogGroupTypeID="101" LogID="1311" Sequence="15" Hour="15">
+        <LogHeader LogID="1311" LogTypeID="0" Date="2022-09-22T00:00:00.0000000-04:00" />
+      </LogGroup>
+      <AssetEvent>
+        <Asset AssetID="55657" AssetTypeID="3" Title="For The Love of Tabla Album" AssetTypeName="Link" PrimaryResourceID="58378" Comment="ERae, 2022" infoCreatedDate="2022-02-28T21:47:07.3570000+00:00" infoModifiedDate="2022-03-07T22:12:09.8030000+00:00" OverrideChainType="0" PlaybackMethodID="0" BedTypeID="0" IgnorePitching="false" UniversalIdentifier="da53620a-1a36-4cc7-b9fc-a511c7e717c7" MetadataScope="1">
+          <Resource ResourceID="58378" ResourceTypeID="1" ResourceFile="\\RW-ONAR1\Zetta\Media\58\58378~RW Paid Ads - 2022-02-22 - For The Love Of Tabla Album.mp3" Length="30.5513" CheckSumMD5="3917316259079292875" Year="0" FileSize="1223803" StartOffset="0" infoCreatedDate="0001-01-01T05:00:00.0000000+00:00" infoModifiedDate="0001-01-01T05:00:00.0000000+00:00" UniversalIdentifier="77cc4c23-1c57-48c4-bb8e-a7a805ce90d4" FileMD5="CE5D7A0052A2289949DBD9C796DD54ED" DatabaseRootMeanSquare="2787" DatabaseStandardPeakMean="12029" DatabaseStandardPeak="9760" DatabaseAbsolutePeak="32243" DatabaseLoudnessBs1770rev0="-19.1754" DatabaseLoudnessBs1770rev3="-18.4717">
+            <Transition ResourceLength="30.5513" Filename="58378~RW Paid Ads - 2022-02-22 - For The Love Of Tabla Album.mp3" PlaybackMode="OnAir" FileMD5="CE5D7A0052A2289949DBD9C796DD54ED">
+              <PointOfInterestMarker Position="29.629" Enabled="true" Duration="0" Value="0.9223" Details="" POIType="8" />
+              <VolumeMarker Position="0" Level="1" />
+              <VolumeMarker Position="30.5513" Level="1" />
+            </Transition>
+          </Resource>
+          <Artist ArtistID="3162" ArtistTypeID="0" Name="RW Paid Ads" />
+          <Album AlbumID="4686" Name="Toronto Tabla Ensemble" />
+          <Product ProductID="584" Name="Toronto Tabla Ensemble" />
+          <Sponsor SponsorID="1038" Name="RW Paid Ads" />
+          <AssetAttribute AttributeTypeID="10004" AttributeTypeName="Genre" AttributeValueName="RW Promos" />
+          <AssetAttribute AttributeTypeID="10003" AttributeTypeName="RW Release Date" AttributeValueName="2022-02-22" />
+          <StationSpecific StationSpecificId="90979" UniversalIdentifier="bfc7ad29-eae0-48c2-b997-645220fd6266" IsActive="true" Station="Radio Western" StationID="1" StationUniversalIdentifier="6d8a0ad7-93f0-4c87-b8e0-ee573f0b973b">
+            <Category CategoryID="32" Name="Pm" AssetTypeID="3" CategoryGroup="10 Promos" LongName="Promos" />
+          </StationSpecific>
+        </Asset>
+      </AssetEvent>
+    </LogEvent>
+  </LogEvents>
+</ZettaClipboard>

@@ -1,0 +1,30 @@
+<ZettaClipboard Version="0.0.0" MessageType="0">
+  <Station StationID="1" Name="Radio Western" Active="true" Comment="Radio Western 94.9 FM Broadcast" StationRole="PRIMARY" UniversalIdentifier="6d8a0ad7-93f0-4c87-b8e0-ee573f0b973b" CallLetters="CHRW" EnterpriseStationId="CHRW-FM" />
+  <LogEvents>
+    <LogEvent UniversalIdentifier="cbc1e7ed-8b39-ed11-9026-dfd61a1620b1" LogEventID="568701" LogGroupID="25351" Sequence="9" LogEventEntryTypeID="106" Description="Music Is The Medicine Promo - RW Show Promos" AirStarttime="2022-09-22T19:58:56Z" AirStarttimeLocal="2022-09-22 3:58:56 PM" AirStoptime="2022-09-22T19:59:26Z" AirStoptimeLocal="2022-09-22 3:59:26 PM" EntryValue1="0" EntryData="" ChainType="1" StatusCode="1" EditCode="0" ErrorCode="0" TimingType="1" IsFixed="false" DynamicType="1" IsChildEvent="false">
+      <LogGroup LogGroupID="25351" LogGroupTypeID="101" LogID="1311" Sequence="15" Hour="15">
+        <LogHeader LogID="1311" LogTypeID="0" Date="2022-09-22T00:00:00.0000000-04:00" />
+      </LogGroup
+        <Asset AssetID="55658" AssetTypeID="3" Title="Music Is The Medicine Promo" AssetTypeName="Link" PrimaryResourceID="58379" Comment="KCrawford, ERae, 2022" infoCreatedDate="2022-02-28T21:47:07.7430000+00:00" infoModifiedDate="2022-03-07T22:12:14.3270000+00:00" OverrideChainType="0" PlaybackMethodID="0" BedTypeID="0" IgnorePitching="false" UniversalIdentifier="9cd438d0-908a-484e-aa16-b4c86c0e998a" MetadataScope="1">
+          <Resource ResourceID="58379" ResourceTypeID="1" ResourceFile="\\RW-ONAR1\Zetta\Media\58\58379~RW Show Promos - 2022-02-28 - Music Is The Medicine.m4a" Length="30.4298" CheckSumMD5="-8568601830511000436" Year="0" FileSize="3223160" StartOffset="0" infoCreatedDate="0001-01-01T05:00:00.0000000+00:00" infoModifiedDate="0001-01-01T05:00:00.0000000+00:00" UniversalIdentifier="c4b4dfe3-ea26-49b8-8b22-981edf2f9654" FileMD5="7DD6E40DEADB8CC4C5CB75B4332BC262" DatabaseRootMeanSquare="5395" DatabaseStandardPeakMean="21577" DatabaseStandardPeak="17888" DatabaseAbsolutePeak="32627" DatabaseLoudnessBs1770rev0="-12.85" DatabaseLoudnessBs1770rev3="-12.5616">
+            <Transition ResourceLength="30.4298" Filename="58379~RW Show Promos - 2022-02-28 - Music Is The Medicine.m4a" PlaybackMode="OnAir" FileMD5="7DD6E40DEADB8CC4C5CB75B4332BC262">
+              <PointOfInterestMarker Position="0" Enabled="true" Duration="0.1599" Value="0" Details="" POIType="13" />
+              <PointOfInterestMarker Position="29.9856" Enabled="true" Duration="0" Value="0.4442" Details="" POIType="8" />
+              <VolumeMarker Position="0" Level="1" />
+              <VolumeMarker Position="30.4298" Level="1" />
+            </Transition>
+          </Resource>
+          <Artist ArtistID="3364" ArtistTypeID="0" Name="RW Show Promos" />
+          <Album AlbumID="4687" Name="Music Is The Medicine" />
+          <Product ProductID="2336" Name="Music Is The Medicine" />
+          <Sponsor SponsorID="750" Name="RW Show Promos" />
+          <AssetAttribute AttributeTypeID="10004" AttributeTypeName="Genre" AttributeValueName="RW Promos" />
+          <AssetAttribute AttributeTypeID="10003" AttributeTypeName="RW Release Date" AttributeValueName="2022-02-28" />
+          <StationSpecific StationSpecificId="90981" UniversalIdentifier="d1750455-9dc8-4485-9195-98ecbd3488f2" IsActive="true" Station="Radio Western" StationID="1" StationUniversalIdentifier="6d8a0ad7-93f0-4c87-b8e0-ee573f0b973b">
+            <Category CategoryID="32" Name="Pm" AssetTypeID="3" CategoryGroup="10 Promos" LongName="Promos" />
+          </StationSpecific>
+        </Asset>
+      </AssetEvent>
+    </LogEvent>
+  </LogEvents>
+</ZettaClipboard><?xml version="1.0" encoding="utf-8"?>

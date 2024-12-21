@@ -1,0 +1,437 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ZettaClipboard Version="0.0.0" MessageType="0">
+  <Station StationID="1" Name="Radio Western" Active="true" Comment="Radio Western 94.9 FM Broadcast" StationRole="PRIMARY" UniversalIdentifier="6d8a0ad7-93f0-4c87-b8e0-ee573f0b973b" CallLetters="CHRW" EnterpriseStationId="CHRW-FM" />
+  <LogEvents>
+    <LogEvent UniversalIdentifier="cbc1e7ed-8b39-ed11-9026-dfd61a1620b1" LogEventID="568701" LogGroupID="25351" Sequence="9" LogEventEntryTypeID="106" Description="Music Is The Medicine Promo - RW Show Promos" AirStarttime="2022-09-22T19:58:56Z" AirStarttimeLocal="2022-09-22 3:58:56 PM" AirStoptime="2022-09-22T19:59:26Z" AirStoptimeLocal="2022-09-22 3:59:26 PM" EntryValue1="0" EntryData="" ChainType="1" StatusCode="1" EditCode="0" ErrorCode="0" TimingType="1" IsFixed="false" DynamicType="1" IsChildEvent="false">
+      <LogGroup LogGroupID="25351" LogGroupTypeID="101" LogID="1311" Sequence="15" Hour="15">
+        <LogHeader LogID="1311" LogTypeID="0" Date="2022-09-22T00:00:00.0000000-04:00" />
+      </LogGroup>
+      <AssetEvent>
+        <Asset AssetID="55658" AssetTypeID="3" Title="Music Is The Medicine Promo" AssetTypeName="Link" PrimaryResourceID="58379" Comment="KCrawford, ERae, 2022" infoCreatedDate="2022-02-28T21:47:07.7430000+00:00" infoModifiedDate="2022-03-07T22:12:14.3270000+00:00" OverrideChainType="0" PlaybackMethodID="0" BedTypeID="0" IgnorePitching="false" UniversalIdentifier="9cd438d0-908a-484e-aa16-b4c86c0e998a" MetadataScope="1">
+          <Resource ResourceID="58379" ResourceTypeID="1" ResourceFile="\\RW-ONAR1\Zetta\Media\58\58379~RW Show Promos - 2022-02-28 - Music Is The Medicine.m4a" Length="30.4298" CheckSumMD5="-8568601830511000436" Year="0" FileSize="3223160" StartOffset="0" infoCreatedDate="0001-01-01T05:00:00.0000000+00:00" infoModifiedDate="0001-01-01T05:00:00.0000000+00:00" UniversalIdentifier="c4b4dfe3-ea26-49b8-8b22-981edf2f9654" FileMD5="7DD6E40DEADB8CC4C5CB75B4332BC262" DatabaseRootMeanSquare="5395" DatabaseStandardPeakMean="21577" DatabaseStandardPeak="17888" DatabaseAbsolutePeak="32627" DatabaseLoudnessBs1770rev0="-12.85" DatabaseLoudnessBs1770rev3="-12.5616">
+            <Transition ResourceLength="30.4298" Filename="58379~RW Show Promos - 2022-02-28 - Music Is The Medicine.m4a" PlaybackMode="OnAir" FileMD5="7DD6E40DEADB8CC4C5CB75B4332BC262">
+              <PointOfInterestMarker Position="0" Enabled="true" Duration="0.1599" Value="0" Details="" POIType="13" />
+              <PointOfInterestMarker Position="29.9856" Enabled="true" Duration="0" Value="0.4442" Details="" POIType="8" />
+              <VolumeMarker Position="0" Level="1" />
+              <VolumeMarker Position="30.4298" Level="1" />
+            </Transition>
+          </Resource>
+          <Artist ArtistID="3364" ArtistTypeID="0" Name="RW Show Promos" />
+          <Album AlbumID="4687" Name="Music Is The Medicine" />
+          <Product ProductID="2336" Name="Music Is The Medicine" />
+          <Sponsor SponsorID="750" Name="RW Show Promos" />
+          <AssetAttribute AttributeTypeID="10004" AttributeTypeName="Genre" AttributeValueName="RW Promos" />
+          <AssetAttribute AttributeTypeID="10003" AttributeTypeName="RW Release Date" AttributeValueName="2022-02-28" />
+          <StationSpecific StationSpecificId="90981" UniversalIdentifier="d1750455-9dc8-4485-9195-98ecbd3488f2" IsActive="true" Station="Radio Western" StationID="1" StationUniversalIdentifier="6d8a0ad7-93f0-4c87-b8e0-ee573f0b973b">
+            <Category CategoryID="32" Name="Pm" AssetTypeID="3" CategoryGroup="10 Promos" LongName="Promos" />
+          </StationSpecific>
+        </Asset>
+      </AssetEvent>
+    </LogEvent>
+  </LogEvents>
+</ZettaClipboard><?xml version="1.0" encoding="utf-8"?>
+<ZettaClipboard Version="0.0.0" MessageType="0">
+  <Station StationID="1" Name="Radio Western" Active="true" Comment="Radio Western 94.9 FM Broadcast" StationRole="PRIMARY" UniversalIdentifier="6d8a0ad7-93f0-4c87-b8e0-ee573f0b973b" CallLetters="CHRW" EnterpriseStationId="CHRW-FM" />
+  <LogEvents>
+    <LogEvent UniversalIdentifier="cbc1e7ed-8b39-ed11-9026-dfd61a1620b1" LogEventID="568701" LogGroupID="25351" Sequence="9" LogEventEntryTypeID="106" Description="Music Is The Medicine Promo - RW Show Promos" AirStarttime="2022-09-22T19:58:56Z" AirStarttimeLocal="2022-09-22 3:58:56 PM" AirStoptime="2022-09-22T19:59:26Z" AirStoptimeLocal="2022-09-22 3:59:26 PM" EntryValue1="0" EntryData="" ChainType="1" StatusCode="2" EditCode="214" ErrorCode="0" TimingType="1" IsFixed="false" LastStarted="true" DynamicType="1" IsChildEvent="false">
+      <LogGroup LogGroupID="25351" LogGroupTypeID="101" LogID="1311" Sequence="15" Hour="15">
+        <LogHeader LogID="1311" LogTypeID="0" Date="2022-09-22T00:00:00.0000000-04:00" />
+      </LogGroup>
+      <AssetEvent>
+        <Asset AssetID="55658" AssetTypeID="3" Title="Music Is The Medicine Promo" AssetTypeName="Link" PrimaryResourceID="58379" Comment="KCrawford, ERae, 2022" infoCreatedDate="2022-02-28T21:47:07.7430000+00:00" infoModifiedDate="2022-03-07T22:12:14.3270000+00:00" OverrideChainType="0" PlaybackMethodID="0" BedTypeID="0" IgnorePitching="false" UniversalIdentifier="9cd438d0-908a-484e-aa16-b4c86c0e998a" MetadataScope="1">
+          <Resource ResourceID="58379" ResourceTypeID="1" ResourceFile="\\RW-ONAR1\Zetta\Media\58\58379~RW Show Promos - 2022-02-28 - Music Is The Medicine.m4a" Length="30.4298" CheckSumMD5="-8568601830511000436" Year="0" FileSize="3223160" StartOffset="0" infoCreatedDate="0001-01-01T05:00:00.0000000+00:00" infoModifiedDate="0001-01-01T05:00:00.0000000+00:00" UniversalIdentifier="c4b4dfe3-ea26-49b8-8b22-981edf2f9654" FileMD5="7DD6E40DEADB8CC4C5CB75B4332BC262" DatabaseRootMeanSquare="5395" DatabaseStandardPeakMean="21577" DatabaseStandardPeak="17888" DatabaseAbsolutePeak="32627" DatabaseLoudnessBs1770rev0="-12.85" DatabaseLoudnessBs1770rev3="-12.5616">
+            <Transition ResourceLength="30.4298" Filename="58379~RW Show Promos - 2022-02-28 - Music Is The Medicine.m4a" PlaybackMode="OnAir" FileMD5="7DD6E40DEADB8CC4C5CB75B4332BC262">
+              <PointOfInterestMarker Position="0" Enabled="true" Duration="0.1599" Value="0" Details="" POIType="13" />
+              <PointOfInterestMarker Position="29.9856" Enabled="true" Duration="0" Value="0.4442" Details="" POIType="8" />
+              <VolumeMarker Position="0" Level="1" />
+              <VolumeMarker Position="30.4298" Level="1" />
+            </Transition>
+          </Resource>
+          <Artist ArtistID="3364" ArtistTypeID="0" Name="RW Show Promos" />
+          <Album AlbumID="4687" Name="Music Is The Medicine" />
+          <Product ProductID="2336" Name="Music Is The Medicine" />
+          <Sponsor SponsorID="750" Name="RW Show Promos" />
+          <AssetAttribute AttributeTypeID="10004" AttributeTypeName="Genre" AttributeValueName="RW Promos" />
+          <AssetAttribute AttributeTypeID="10003" AttributeTypeName="RW Release Date" AttributeValueName="2022-02-28" />
+          <StationSpecific StationSpecificId="90981" UniversalIdentifier="d1750455-9dc8-4485-9195-98ecbd3488f2" IsActive="true" Station="Radio Western" StationID="1" StationUniversalIdentifier="6d8a0ad7-93f0-4c87-b8e0-ee573f0b973b">
+            <Category CategoryID="32" Name="Pm" AssetTypeID="3" CategoryGroup="10 Promos" LongName="Promos" />
+          </StationSpecific>
+        </Asset>
+      </AssetEvent>
+    </LogEvent>
+  </LogEvents>
+</ZettaClipboard><?xml version="1.0" encoding="utf-8"?>
+<ZettaClipboard Version="0.0.0" MessageType="0">
+  <Station StationID="1" Name="Radio Western" Active="true" Comment="Radio Western 94.9 FM Broadcast" StationRole="PRIMARY" UniversalIdentifier="6d8a0ad7-93f0-4c87-b8e0-ee573f0b973b" CallLetters="CHRW" EnterpriseStationId="CHRW-FM" />
+  <LogEvents>
+    <LogEvent UniversalIdentifier="cbc1e7ed-8b39-ed11-9026-dfd61a1620b1" LogEventID="568701" LogGroupID="25351" Sequence="9" LogEventEntryTypeID="106" Description="Music Is The Medicine Promo - RW Show Promos" AirStarttime="2022-09-22T19:58:56Z" AirStarttimeLocal="2022-09-22 3:58:56 PM" AirStoptime="2022-09-22T19:59:26Z" AirStoptimeLocal="2022-09-22 3:59:26 PM" EntryValue1="0" EntryData="" ChainType="1" StatusCode="2" EditCode="214" ErrorCode="0" TimingType="1" IsFixed="false" DynamicType="1" IsChildEvent="false">
+      <LogGroup LogGroupID="25351" LogGroupTypeID="101" LogID="1311" Sequence="15" Hour="15">
+        <LogHeader LogID="1311" LogTypeID="0" Date="2022-09-22T00:00:00.0000000-04:00" />
+      </LogGroup>
+      <AssetEvent>
+        <Asset AssetID="55658" AssetTypeID="3" Title="Music Is The Medicine Promo" AssetTypeName="Link" PrimaryResourceID="58379" Comment="KCrawford, ERae, 2022" infoCreatedDate="2022-02-28T21:47:07.7430000+00:00" infoModifiedDate="2022-03-07T22:12:14.3270000+00:00" OverrideChainType="0" PlaybackMethodID="0" BedTypeID="0" IgnorePitching="false" UniversalIdentifier="9cd438d0-908a-484e-aa16-b4c86c0e998a" MetadataScope="1">
+          <Resource ResourceID="58379" ResourceTypeID="1" ResourceFile="\\RW-ONAR1\Zetta\Media\58\58379~RW Show Promos - 2022-02-28 - Music Is The Medicine.m4a" Length="30.4298" CheckSumMD5="-8568601830511000436" Year="0" FileSize="3223160" StartOffset="0" infoCreatedDate="0001-01-01T05:00:00.0000000+00:00" infoModifiedDate="0001-01-01T05:00:00.0000000+00:00" UniversalIdentifier="c4b4dfe3-ea26-49b8-8b22-981edf2f9654" FileMD5="7DD6E40DEADB8CC4C5CB75B4332BC262" DatabaseRootMeanSquare="5395" DatabaseStandardPeakMean="21577" DatabaseStandardPeak="17888" DatabaseAbsolutePeak="32627" DatabaseLoudnessBs1770rev0="-12.85" DatabaseLoudnessBs1770rev3="-12.5616">
+            <Transition ResourceLength="30.4298" Filename="58379~RW Show Promos - 2022-02-28 - Music Is The Medicine.m4a" PlaybackMode="OnAir" FileMD5="7DD6E40DEADB8CC4C5CB75B4332BC262">
+              <PointOfInterestMarker Position="0" Enabled="true" Duration="0.1599" Value="0" Details="" POIType="13" />
+              <PointOfInterestMarker Position="29.9856" Enabled="true" Duration="0" Value="0.4442" Details="" POIType="8" />
+              <VolumeMarker Position="0" Level="1" />
+              <VolumeMarker Position="30.4298" Level="1" />
+            </Transition>
+          </Resource>
+          <Artist ArtistID="3364" ArtistTypeID="0" Name="RW Show Promos" />
+          <Album AlbumID="4687" Name="Music Is The Medicine" />
+          <Product ProductID="2336" Name="Music Is The Medicine" />
+          <Sponsor SponsorID="750" Name="RW Show Promos" />
+          <AssetAttribute AttributeTypeID="10004" AttributeTypeName="Genre" AttributeValueName="RW Promos" />
+          <AssetAttribute AttributeTypeID="10003" AttributeTypeName="RW Release Date" AttributeValueName="2022-02-28" />
+          <StationSpecific StationSpecificId="90981" UniversalIdentifier="d1750455-9dc8-4485-9195-98ecbd3488f2" IsActive="true" Station="Radio Western" StationID="1" StationUniversalIdentifier="6d8a0ad7-93f0-4c87-b8e0-ee573f0b973b">
+            <Category CategoryID="32" Name="Pm" AssetTypeID="3" CategoryGroup="10 Promos" LongName="Promos" />
+          </StationSpecific>
+        </Asset>
+      </AssetEvent>
+    </LogEvent>
+  </LogEvents>
+</ZettaClipboard><?xml version="1.0" encoding="utf-8"?>
+<ZettaClipboard Version="0.0.0" MessageType="2">
+  <Station StationID="1" Name="Radio Western" Active="true" Comment="Radio Western 94.9 FM Broadcast" StationRole="PRIMARY" UniversalIdentifier="6d8a0ad7-93f0-4c87-b8e0-ee573f0b973b" CallLetters="CHRW" EnterpriseStationId="CHRW-FM" />
+  <LogEvents>
+    <LogEvent LogEventID="0" LogGroupID="0" Sequence="0" LogEventEntryTypeID="106" AirStarttime="2022-09-22T19:59:25.9792643Z" AirStarttimeLocal="2022-09-22 3:59:25 PM" StatusCode="2">
+      <AssetEvent>
+        <Asset AssetID="0" AssetTypeID="1" Title="A Person Disguised as People" MetadataScope="1">
+          <Artist ArtistID="0" ArtistTypeID="0" Name="Ian Doig-Phaneuf" />
+          <Participant Name="Live Music Show" RoleId="2" />
+        </Asset>
+      </AssetEvent>
+    </LogEvent>
+  </LogEvents>
+</ZettaClipboard><?xml version="1.0" encoding="utf-8"?>
+<ZettaClipboard Version="0.0.0" MessageType="0">
+  <Station StationID="1" Name="Radio Western" Active="true" Comment="Radio Western 94.9 FM Broadcast" StationRole="PRIMARY" UniversalIdentifier="6d8a0ad7-93f0-4c87-b8e0-ee573f0b973b" CallLetters="CHRW" EnterpriseStationId="CHRW-FM" />
+  <LogEvents>
+    <LogEvent UniversalIdentifier="cbc1e7ed-8b39-ed11-9026-dfd61a1620b1" LogEventID="568701" LogGroupID="25351" Sequence="9" LogEventEntryTypeID="106" Description="Music Is The Medicine Promo - RW Show Promos" AirStarttime="2022-09-22T19:58:56Z" AirStarttimeLocal="2022-09-22 3:58:56 PM" AirStoptime="2022-09-22T19:59:26Z" AirStoptimeLocal="2022-09-22 3:59:26 PM" EntryValue1="0" EntryData="" ChainType="1" StatusCode="2" EditCode="214" ErrorCode="0" TimingType="1" IsFixed="false" DynamicType="1" IsChildEvent="false">
+      <LogGroup LogGroupID="25351" LogGroupTypeID="101" LogID="1311" Sequence="15" Hour="15">
+        <LogHeader LogID="1311" LogTypeID="0" Date="2022-09-22T00:00:00.0000000-04:00" />
+      </LogGroup>
+      <AssetEvent>
+        <Asset AssetID="55658" AssetTypeID="3" Title="Music Is The Medicine Promo" AssetTypeName="Link" PrimaryResourceID="58379" Comment="KCrawford, ERae, 2022" infoCreatedDate="2022-02-28T21:47:07.7430000+00:00" infoModifiedDate="2022-03-07T22:12:14.3270000+00:00" OverrideChainType="0" PlaybackMethodID="0" BedTypeID="0" IgnorePitching="false" UniversalIdentifier="9cd438d0-908a-484e-aa16-b4c86c0e998a" MetadataScope="1">
+          <Resource ResourceID="58379" ResourceTypeID="1" ResourceFile="\\RW-ONAR1\Zetta\Media\58\58379~RW Show Promos - 2022-02-28 - Music Is The Medicine.m4a" Length="30.4298" CheckSumMD5="-8568601830511000436" Year="0" FileSize="3223160" StartOffset="0" infoCreatedDate="0001-01-01T05:00:00.0000000+00:00" infoModifiedDate="0001-01-01T05:00:00.0000000+00:00" UniversalIdentifier="c4b4dfe3-ea26-49b8-8b22-981edf2f9654" FileMD5="7DD6E40DEADB8CC4C5CB75B4332BC262" DatabaseRootMeanSquare="5395" DatabaseStandardPeakMean="21577" DatabaseStandardPeak="17888" DatabaseAbsolutePeak="32627" DatabaseLoudnessBs1770rev0="-12.85" DatabaseLoudnessBs1770rev3="-12.5616">
+            <Transition ResourceLength="30.4298" Filename="58379~RW Show Promos - 2022-02-28 - Music Is The Medicine.m4a" PlaybackMode="OnAir" FileMD5="7DD6E40DEADB8CC4C5CB75B4332BC262">
+              <PointOfInterestMarker Position="0" Enabled="true" Duration="0.1599" Value="0" Details="" POIType="13" />
+              <PointOfInterestMarker Position="29.9856" Enabled="true" Duration="0" Value="0.4442" Details="" POIType="8" />
+              <VolumeMarker Position="0" Level="1" />
+              <VolumeMarker Position="30.4298" Level="1" />
+            </Transition>
+          </Resource>
+          <Artist ArtistID="3364" ArtistTypeID="0" Name="RW Show Promos" />
+          <Album AlbumID="4687" Name="Music Is The Medicine" />
+          <Product ProductID="2336" Name="Music Is The Medicine" />
+          <Sponsor SponsorID="750" Name="RW Show Promos" />
+          <AssetAttribute AttributeTypeID="10004" AttributeTypeName="Genre" AttributeValueName="RW Promos" />
+          <AssetAttribute AttributeTypeID="10003" AttributeTypeName="RW Release Date" AttributeValueName="2022-02-28" />
+          <StationSpecific StationSpecificId="90981" UniversalIdentifier="d1750455-9dc8-4485-9195-98ecbd3488f2" IsActive="true" Station="Radio Western" StationID="1" StationUniversalIdentifier="6d8a0ad7-93f0-4c87-b8e0-ee573f0b973b">
+            <Category CategoryID="32" Name="Pm" AssetTypeID="3" CategoryGroup="10 Promos" LongName="Promos" />
+          </StationSpecific>
+        </Asset>
+      </AssetEvent>
+    </LogEvent>
+  </LogEvents>
+</ZettaClipboard><?xml version="1.0" encoding="utf-8"?>
+<ZettaClipboard Version="0.0.0" MessageType="0">
+  <Station StationID="1" Name="Radio Western" Active="true" Comment="Radio Western 94.9 FM Broadcast" StationRole="PRIMARY" UniversalIdentifier="6d8a0ad7-93f0-4c87-b8e0-ee573f0b973b" CallLetters="CHRW" EnterpriseStationId="CHRW-FM" />
+  <LogEvents>
+    <LogEvent UniversalIdentifier="ccc1e7ed-8b39-ed11-9026-dfd61a1620b1" LogEventID="568702" LogGroupID="25351" Sequence="10" LogEventEntryTypeID="106" Description="For The Love of Tabla Album - RW Paid Ads" AirStarttime="2022-09-22T19:59:26Z" AirStarttimeLocal="2022-09-22 3:59:26 PM" AirStoptime="2022-09-22T19:59:56Z" AirStoptimeLocal="2022-09-22 3:59:56 PM" EntryValue1="0" EntryData="" ChainType="1" StatusCode="2" EditCode="0" ErrorCode="0" TimingType="1" IsFixed="false" LastStarted="true" DynamicType="1" IsChildEvent="false">
+      <LogGroup LogGroupID="25351" LogGroupTypeID="101" LogID="1311" Sequence="15" Hour="15">
+        <LogHeader LogID="1311" LogTypeID="0" Date="2022-09-22T00:00:00.0000000-04:00" />
+      </LogGroup>
+      <AssetEvent>
+        <Asset AssetID="55657" AssetTypeID="3" Title="For The Love of Tabla Album" AssetTypeName="Link" PrimaryResourceID="58378" Comment="ERae, 2022" infoCreatedDate="2022-02-28T21:47:07.3570000+00:00" infoModifiedDate="2022-03-07T22:12:09.8030000+00:00" OverrideChainType="0" PlaybackMethodID="0" BedTypeID="0" IgnorePitching="false" UniversalIdentifier="da53620a-1a36-4cc7-b9fc-a511c7e717c7" MetadataScope="1">
+          <Resource ResourceID="58378" ResourceTypeID="1" ResourceFile="\\RW-ONAR1\Zetta\Media\58\58378~RW Paid Ads - 2022-02-22 - For The Love Of Tabla Album.mp3" Length="30.5513" CheckSumMD5="3917316259079292875" Year="0" FileSize="1223803" StartOffset="0" infoCreatedDate="0001-01-01T05:00:00.0000000+00:00" infoModifiedDate="0001-01-01T05:00:00.0000000+00:00" UniversalIdentifier="77cc4c23-1c57-48c4-bb8e-a7a805ce90d4" FileMD5="CE5D7A0052A2289949DBD9C796DD54ED" DatabaseRootMeanSquare="2787" DatabaseStandardPeakMean="12029" DatabaseStandardPeak="9760" DatabaseAbsolutePeak="32243" DatabaseLoudnessBs1770rev0="-19.1754" DatabaseLoudnessBs1770rev3="-18.4717">
+            <Transition ResourceLength="30.5513" Filename="58378~RW Paid Ads - 2022-02-22 - For The Love Of Tabla Album.mp3" PlaybackMode="OnAir" FileMD5="CE5D7A0052A2289949DBD9C796DD54ED">
+              <PointOfInterestMarker Position="29.629" Enabled="true" Duration="0" Value="0.9223" Details="" POIType="8" />
+              <VolumeMarker Position="0" Level="1" />
+              <VolumeMarker Position="30.5513" Level="1" />
+            </Transition>
+          </Resource>
+          <Artist ArtistID="3162" ArtistTypeID="0" Name="RW Paid Ads" />
+          <Album AlbumID="4686" Name="Toronto Tabla Ensemble" />
+          <Product ProductID="584" Name="Toronto Tabla Ensemble" />
+          <Sponsor SponsorID="1038" Name="RW Paid Ads" />
+          <AssetAttribute AttributeTypeID="10004" AttributeTypeName="Genre" AttributeValueName="RW Promos" />
+          <AssetAttribute AttributeTypeID="10003" AttributeTypeName="RW Release Date" AttributeValueName="2022-02-22" />
+          <StationSpecific StationSpecificId="90979" UniversalIdentifier="bfc7ad29-eae0-48c2-b997-645220fd6266" IsActive="true" Station="Radio Western" StationID="1" StationUniversalIdentifier="6d8a0ad7-93f0-4c87-b8e0-ee573f0b973b">
+            <Category CategoryID="32" Name="Pm" AssetTypeID="3" CategoryGroup="10 Promos" LongName="Promos" />
+          </StationSpecific>
+        </Asset>
+      </AssetEvent>
+    </LogEvent>
+  </LogEvents>
+</ZettaClipboard><?xml version="1.0" encoding="utf-8"?>
+<ZettaClipboard Version="0.0.0" MessageType="0">
+  <Station StationID="1" Name="Radio Western" Active="true" Comment="Radio Western 94.9 FM Broadcast" StationRole="PRIMARY" UniversalIdentifier="6d8a0ad7-93f0-4c87-b8e0-ee573f0b973b" CallLetters="CHRW" EnterpriseStationId="CHRW-FM" />
+  <LogEvents>
+    <LogEvent UniversalIdentifier="ccc1e7ed-8b39-ed11-9026-dfd61a1620b1" LogEventID="568702" LogGroupID="25351" Sequence="10" LogEventEntryTypeID="106" Description="For The Love of Tabla Album - RW Paid Ads" AirStarttime="2022-09-22T19:59:26Z" AirStarttimeLocal="2022-09-22 3:59:26 PM" AirStoptime="2022-09-22T19:59:56Z" AirStoptimeLocal="2022-09-22 3:59:56 PM" EntryValue1="0" EntryData="" ChainType="1" StatusCode="2" EditCode="0" ErrorCode="0" TimingType="1" IsFixed="false" DynamicType="1" IsChildEvent="false">
+      <LogGroup LogGroupID="25351" LogGroupTypeID="101" LogID="1311" Sequence="15" Hour="15">
+        <LogHeader LogID="1311" LogTypeID="0" Date="2022-09-22T00:00:00.0000000-04:00" />
+      </LogGroup>
+      <AssetEvent>
+        <Asset AssetID="55657" AssetTypeID="3" Title="For The Love of Tabla Album" AssetTypeName="Link" PrimaryResourceID="58378" Comment="ERae, 2022" infoCreatedDate="2022-02-28T21:47:07.3570000+00:00" infoModifiedDate="2022-03-07T22:12:09.8030000+00:00" OverrideChainType="0" PlaybackMethodID="0" BedTypeID="0" IgnorePitching="false" UniversalIdentifier="da53620a-1a36-4cc7-b9fc-a511c7e717c7" MetadataScope="1">
+          <Resource ResourceID="58378" ResourceTypeID="1" ResourceFile="\\RW-ONAR1\Zetta\Media\58\58378~RW Paid Ads - 2022-02-22 - For The Love Of Tabla Album.mp3" Length="30.5513" CheckSumMD5="3917316259079292875" Year="0" FileSize="1223803" StartOffset="0" infoCreatedDate="0001-01-01T05:00:00.0000000+00:00" infoModifiedDate="0001-01-01T05:00:00.0000000+00:00" UniversalIdentifier="77cc4c23-1c57-48c4-bb8e-a7a805ce90d4" FileMD5="CE5D7A0052A2289949DBD9C796DD54ED" DatabaseRootMeanSquare="2787" DatabaseStandardPeakMean="12029" DatabaseStandardPeak="9760" DatabaseAbsolutePeak="32243" DatabaseLoudnessBs1770rev0="-19.1754" DatabaseLoudnessBs1770rev3="-18.4717">
+            <Transition ResourceLength="30.5513" Filename="58378~RW Paid Ads - 2022-02-22 - For The Love Of Tabla Album.mp3" PlaybackMode="OnAir" FileMD5="CE5D7A0052A2289949DBD9C796DD54ED">
+              <PointOfInterestMarker Position="29.629" Enabled="true" Duration="0" Value="0.9223" Details="" POIType="8" />
+              <VolumeMarker Position="0" Level="1" />
+              <VolumeMarker Position="30.5513" Level="1" />
+            </Transition>
+          </Resource>
+          <Artist ArtistID="3162" ArtistTypeID="0" Name="RW Paid Ads" />
+          <Album AlbumID="4686" Name="Toronto Tabla Ensemble" />
+          <Product ProductID="584" Name="Toronto Tabla Ensemble" />
+          <Sponsor SponsorID="1038" Name="RW Paid Ads" />
+          <AssetAttribute AttributeTypeID="10004" AttributeTypeName="Genre" AttributeValueName="RW Promos" />
+          <AssetAttribute AttributeTypeID="10003" AttributeTypeName="RW Release Date" AttributeValueName="2022-02-22" />
+          <StationSpecific StationSpecificId="90979" UniversalIdentifier="bfc7ad29-eae0-48c2-b997-645220fd6266" IsActive="true" Station="Radio Western" StationID="1" StationUniversalIdentifier="6d8a0ad7-93f0-4c87-b8e0-ee573f0b973b">
+            <Category CategoryID="32" Name="Pm" AssetTypeID="3" CategoryGroup="10 Promos" LongName="Promos" />
+          </StationSpecific>
+        </Asset>
+      </AssetEvent>
+    </LogEvent>
+  </LogEvents>
+</ZettaClipboard><?xml version="1.0" encoding="utf-8"?>
+<ZettaClipboard Version="0.0.0" MessageType="0">
+  <Station StationID="1" Name="Radio Western" Active="true" Comment="Radio Western 94.9 FM Broadcast" StationRole="PRIMARY" UniversalIdentifier="6d8a0ad7-93f0-4c87-b8e0-ee573f0b973b" CallLetters="CHRW" EnterpriseStationId="CHRW-FM" />
+  <LogEvents>
+    <LogEvent UniversalIdentifier="cdc1e7ed-8b39-ed11-9026-dfd61a1620b1" LogEventID="568703" LogGroupID="25351" Sequence="11" LogEventEntryTypeID="106" Description="CHRW Ian (5s) 2020-09-24 - RW Call Letters" AirStarttime="2022-09-22T19:59:55Z" AirStarttimeLocal="2022-09-22 3:59:55 PM" AirStoptime="2022-09-22T20:00:00Z" AirStoptimeLocal="2022-09-22 4:00:00 PM" EntryValue1="0" EntryData="" ChainType="3" StatusCode="2" EditCode="0" ErrorCode="0" TimingType="1" IsFixed="false" LastStarted="true" DynamicType="1" IsChildEvent="false">
+      <LogGroup LogGroupID="25351" LogGroupTypeID="101" LogID="1311" Sequence="15" Hour="15">
+        <LogHeader LogID="1311" LogTypeID="0" Date="2022-09-22T00:00:00.0000000-04:00" />
+      </LogGroup>
+      <AssetEvent>
+        <Asset AssetID="27262" AssetTypeID="3" Title="CHRW Ian (5s) 2020-09-24" AssetTypeName="Link" PrimaryResourceID="27714" Comment="ACourts, 2020-09-24" infoCreatedDate="2020-10-08T18:33:17.7430000+00:00" infoModifiedDate="2020-10-08T18:33:18.2270000+00:00" OverrideChainType="0" PlaybackMethodID="0" BedTypeID="0" IgnorePitching="false" UniversalIdentifier="4d37ffd5-8211-4f1b-92b9-a12743f1e167" MetadataScope="1">
+          <Resource ResourceID="27714" ResourceTypeID="1" ResourceFile="\\RW-ONAR1\Zetta\Media\27\27714~RW Call Letters - CHRW Ian (5s) 2020-09-24.mp3" Length="5.0558" CheckSumMD5="-1966456107377935312" Year="0" FileSize="204965" StartOffset="0" infoCreatedDate="0001-01-01T05:00:00.0000000+00:00" infoModifiedDate="0001-01-01T05:00:00.0000000+00:00" UniversalIdentifier="26c5aea1-de9b-4ab9-903e-65fd195b45d5" FileMD5="93ABCDD6E30BB32FB223A3766E9C42C0" DatabaseRootMeanSquare="5720" DatabaseStandardPeakMean="23055" DatabaseStandardPeak="19936" DatabaseAbsolutePeak="32475" DatabaseLoudnessBs1770rev0="-13.2271" DatabaseLoudnessBs1770rev3="-12.3778">
+            <Transition ResourceLength="5.0558" Filename="27714~RW Call Letters - CHRW Ian (5s) 2020-09-24.mp3" PlaybackMode="OnAir" FileMD5="93ABCDD6E30BB32FB223A3766E9C42C0">
+              <PointOfInterestMarker Position="4.2688" Enabled="true" Duration="0" Value="0.787" Details="" POIType="8" />
+              <PointOfInterestMarker Position="4.9405" Enabled="true" Duration="0.1153" Value="0" Details="" POIType="14" />
+              <VolumeMarker Position="0" Level="1" />
+              <VolumeMarker Position="5.0558" Level="1" />
+            </Transition>
+          </Resource>
+          <Product ProductID="592" Name="Call Letters ID - Ian" />
+          <Sponsor SponsorID="610" Name="RW Call Letters" />
+          <AssetAttribute AttributeTypeID="10004" AttributeTypeName="Genre" AttributeValueName="RW Station IDs" />
+          <AssetAttribute AttributeTypeID="10003" AttributeTypeName="RW Release Date" AttributeValueName="2020-10-08" />
+          <StationSpecific StationSpecificId="44325" UniversalIdentifier="525067cd-0f0e-470b-a8ad-dd0a93c32037" IsActive="true" Station="Radio Western" StationID="1" StationUniversalIdentifier="6d8a0ad7-93f0-4c87-b8e0-ee573f0b973b">
+            <Category CategoryID="61" Name="CL" AssetTypeID="3" CategoryGroup="13 Call Letters" LongName="Call Letters" />
+          </StationSpecific>
+        </Asset>
+      </AssetEvent>
+    </LogEvent>
+  </LogEvents>
+</ZettaClipboard><?xml version="1.0" encoding="utf-8"?>
+<ZettaClipboard Version="0.0.0" MessageType="0">
+  <Station StationID="1" Name="Radio Western" Active="true" Comment="Radio Western 94.9 FM Broadcast" StationRole="PRIMARY" UniversalIdentifier="6d8a0ad7-93f0-4c87-b8e0-ee573f0b973b" CallLetters="CHRW" EnterpriseStationId="CHRW-FM" />
+  <LogEvents>
+    <LogEvent UniversalIdentifier="b1210891-49bc-40d7-82b7-719e48732b9b" LogEventID="391253" LogGroupID="15531" Sequence="1.5" LogEventEntryTypeID="21" Description="" AirStarttime="2022-09-22T19:59:59Z" AirStarttimeLocal="2022-09-22 3:59:59 PM" AirStoptime="2022-09-22T19:59:59Z" AirStoptimeLocal="2022-09-22 3:59:59 PM" EntryValue1="0" EntryData="" ChainType="1" StatusCode="1" EditCode="204" ErrorCode="0" DynamicType="1" ParentTypeID="104" ParentName="History of Us" ParentDuration="0" ChildEventCount="0" IsChildEvent="false">
+      <LogGroup LogGroupID="15531" LogGroupTypeID="103" LogID="911" Sequence="1" Hour="0">
+        <LogHeader LogID="911" LogTypeID="0" Date="2022-09-22T00:00:00.0000000-04:00" />
+      </LogGroup>
+      <Task TaskCommandID="384" TaskType="16001" Enabled="true" Name="" ParamB="1" ParamString="&lt;BillBoardSend Title=&quot;History of Us&quot; Artist=&quot;Steve Kopp&quot; Composer=&quot;Live Music Show&quot; /&gt;" StationID="1" PlayerStreamID="1" Comment="LiveMetadata.Send [ Station: Radio Western   Title: History of Us, Artist: Steve Kopp, Composer: Live Music Show ]" PlayerRendererId="8" />
+    </LogEvent>
+  </LogEvents>
+</ZettaClipboard><?xml version="1.0" encoding="utf-8"?>
+<ZettaClipboard Version="0.0.0" MessageType="0">
+  <Station StationID="1" Name="Radio Western" Active="true" Comment="Radio Western 94.9 FM Broadcast" StationRole="PRIMARY" UniversalIdentifier="6d8a0ad7-93f0-4c87-b8e0-ee573f0b973b" CallLetters="CHRW" EnterpriseStationId="CHRW-FM" />
+  <LogEvents>
+    <LogEvent UniversalIdentifier="b1210891-49bc-40d7-82b7-719e48732b9b" LogEventID="391254" LogGroupID="15531" Sequence="1.5" LogEventEntryTypeID="21" Description="" AirStarttime="2022-09-22T20:00:05Z" AirStarttimeLocal="2022-09-22 4:00:05 PM" AirStoptime="2022-09-22T20:00:05Z" AirStoptimeLocal="2022-09-22 4:00:05 PM" EntryValue1="0" EntryData="" ChainType="1" StatusCode="1" EditCode="204" ErrorCode="0" DynamicType="1" ParentTypeID="104" ParentName="History of Us" ParentDuration="0" ChildEventCount="0" IsChildEvent="false">
+      <LogGroup LogGroupID="15531" LogGroupTypeID="103" LogID="911" Sequence="1" Hour="0">
+        <LogHeader LogID="911" LogTypeID="0" Date="2022-09-22T00:00:00.0000000-04:00" />
+      </LogGroup>
+      <Task TaskCommandID="384" TaskType="16001" Enabled="true" Name="" ParamB="1" ParamString="&lt;BillBoardSend Title=&quot;History of Us&quot; Artist=&quot;Steve Kopp&quot; Composer=&quot;Live Music Show&quot; /&gt;" StationID="1" PlayerStreamID="1" Comment="LiveMetadata.Send [ Station: Radio Western   Title: History of Us, Artist: Steve Kopp, Composer: Live Music Show ]" PlayerRendererId="8" />
+    </LogEvent>
+  </LogEvents>
+</ZettaClipboard><?xml version="1.0" encoding="utf-8"?>
+<ZettaClipboard Version="0.0.0" MessageType="1">
+  <Station StationID="1" Name="Radio Western" Active="true" Comment="Radio Western 94.9 FM Broadcast" StationRole="PRIMARY" UniversalIdentifier="6d8a0ad7-93f0-4c87-b8e0-ee573f0b973b" CallLetters="CHRW" EnterpriseStationId="CHRW-FM" />
+  <LogEvents>
+    <LogEvent LogEventID="0" LogGroupID="0" Sequence="0" LogEventEntryTypeID="106" AirStarttime="2022-09-22T20:39:11.9205949Z" AirStarttimeLocal="2022-09-22 4:39:11 PM" StatusCode="2">
+      <AssetEvent>
+        <Asset AssetID="0" AssetTypeID="1" Title="Stay Faithless" MetadataScope="1">
+          <Artist ArtistID="0" ArtistTypeID="0" Name="39 Steps" />
+        </Asset>
+      </AssetEvent>
+    </LogEvent>
+  </LogEvents>
+</ZettaClipboard><?xml version="1.0" encoding="utf-8"?>
+<ZettaClipboard Version="0.0.0" MessageType="1">
+  <Station StationID="1" Name="Radio Western" Active="true" Comment="Radio Western 94.9 FM Broadcast" StationRole="PRIMARY" UniversalIdentifier="6d8a0ad7-93f0-4c87-b8e0-ee573f0b973b" CallLetters="CHRW" EnterpriseStationId="CHRW-FM" />
+  <LogEvents>
+    <LogEvent LogEventID="0" LogGroupID="0" Sequence="0" LogEventEntryTypeID="106" AirStarttime="2022-09-22T21:43:50.8691601Z" AirStarttimeLocal="2022-09-22 5:43:50 PM" StatusCode="2">
+      <AssetEvent>
+        <Asset AssetID="0" AssetTypeID="1" Title="Hold Tight" MetadataScope="1">
+          <Artist ArtistID="0" ArtistTypeID="0" Name="Surrender" />
+        </Asset>
+      </AssetEvent>
+    </LogEvent>
+  </LogEvents>
+</ZettaClipboard>
+<?xml version="1.0" encoding="utf-8"?>
+<ZettaClipboard Version="0.0.0" MessageType="1">
+  <Station StationID="1" Name="Radio Western" Active="true" Comment="Radio Western 94.9 FM Broadcast" StationRole="PRIMARY" UniversalIdentifier="6d8a0ad7-93f0-4c87-b8e0-ee573f0b973b" CallLetters="CHRW" EnterpriseStationId="CHRW-FM" />
+  <LogEvents>
+    <LogEvent LogEventID="0" LogGroupID="0" Sequence="0" LogEventEntryTypeID="106" AirStarttime="2022-09-22T21:50:51.1326499Z" AirStarttimeLocal="2022-09-22 5:50:51 PM" StatusCode="2">
+      <AssetEvent>
+        <Asset AssetID="0" AssetTypeID="1" Title="Young Hearts" MetadataScope="1">
+          <Artist ArtistID="0" ArtistTypeID="0" Name="Silent Running" />
+        </Asset>
+      </AssetEvent>
+    </LogEvent>
+  </LogEvents>
+</ZettaClipboard>
+<?xml version="1.0" encoding="utf-8"?>
+<ZettaClipboard Version="0.0.0" MessageType="1">
+  <Station StationID="1" Name="Radio Western" Active="true" Comment="Radio Western 94.9 FM Broadcast" StationRole="PRIMARY" UniversalIdentifier="6d8a0ad7-93f0-4c87-b8e0-ee573f0b973b" CallLetters="CHRW" EnterpriseStationId="CHRW-FM" />
+  <LogEvents>
+    <LogEvent LogEventID="0" LogGroupID="0" Sequence="0" LogEventEntryTypeID="106" AirStarttime="2022-09-22T21:56:21.0600853Z" AirStarttimeLocal="2022-09-22 5:56:21 PM" StatusCode="2">
+      <AssetEvent>
+        <Asset AssetID="0" AssetTypeID="1" Title="Solitasry Man" MetadataScope="1">
+          <Artist ArtistID="0" ArtistTypeID="0" Name="Walk the West" />
+        </Asset>
+      </AssetEvent>
+    </LogEvent>
+  </LogEvents>
+</ZettaClipboard>
+<?xml version="1.0" encoding="utf-8"?>
+<ZettaClipboard Version="0.0.0" MessageType="0">
+  <Station StationID="1" Name="Radio Western" Active="true" Comment="Radio Western 94.9 FM Broadcast" StationRole="PRIMARY" UniversalIdentifier="6d8a0ad7-93f0-4c87-b8e0-ee573f0b973b" CallLetters="CHRW" EnterpriseStationId="CHRW-FM" />
+  <LogEvents>
+    <LogEvent UniversalIdentifier="b1210891-49bc-40d7-82b7-719e48732b9b" LogEventID="391255" LogGroupID="15531" Sequence="1.5" LogEventEntryTypeID="21" Description="" AirStarttime="2022-09-22T21:58:58Z" AirStarttimeLocal="2022-09-22 5:58:58 PM" AirStoptime="2022-09-22T21:58:58Z" AirStoptimeLocal="2022-09-22 5:58:58 PM" EntryValue1="0" EntryData="" ChainType="1" StatusCode="1" EditCode="204" ErrorCode="0" DynamicType="1" ParentTypeID="104" ParentName="History of Us" ParentDuration="0" ChildEventCount="0" IsChildEvent="false">
+      <LogGroup LogGroupID="15531" LogGroupTypeID="103" LogID="911" Sequence="1" Hour="0">
+        <LogHeader LogID="911" LogTypeID="0" Date="2022-09-22T00:00:00.0000000-04:00" />
+      </LogGroup>
+      <Task TaskCommandID="384" TaskType="16001" Enabled="true" Name="" ParamB="1" ParamString="&lt;BillBoardSend Title=&quot;History of Us&quot; Artist=&quot;Steve Kopp&quot; Composer=&quot;Live Music Show&quot; /&gt;" StationID="1" PlayerStreamID="1" Comment="LiveMetadata.Send [ Station: Radio Western   Title: History of Us, Artist: Steve Kopp, Composer: Live Music Show ]" PlayerRendererId="8" />
+    </LogEvent>
+    <LogEvent UniversalIdentifier="d5a4efe9-423e-ed11-9026-dfd61a1620b1" LogEventID="571708" LogGroupID="25518" Sequence="25" LogEventEntryTypeID="21" Description="" AirStarttime="2022-09-28T15:58:57Z" AirStarttimeLocal="2022-09-28 11:58:57 AM" AirStoptime="2022-09-28T15:58:57Z" AirStoptimeLocal="2022-09-28 11:58:57 AM" EntryValue1="0" EntryData="" ChainType="1" StatusCode="1" EditCode="0" ErrorCode="0" TimingType="1" IsFixed="false" DynamicType="1" IsChildEvent="false">
+      <LogGroup LogGroupID="25518" LogGroupTypeID="101" LogID="1318" Sequence="11" Hour="11">
+        <LogHeader LogID="1318" LogTypeID="0" Date="2022-09-28T00:00:00.0000000-04:00"/>
+      </LogGroup>
+      <Task TaskCommandID="2761" TaskType="1005" Enabled="false" Name="" ParamA="3" Comment="Sequencer.SetMode [ Station: < Current Station > Mode: Live Assist ]"/>
+    </LogEvent>
+  </LogEvents>
+</ZettaClipboard>
+<?xml version="1.0" encoding="utf-8"?>
+<ZettaClipboard Version="0.0.0" MessageType="0">
+  <Station StationID="1" Name="Radio Western" Active="true" Comment="Radio Western 94.9 FM Broadcast" StationRole="PRIMARY" UniversalIdentifier="6d8a0ad7-93f0-4c87-b8e0-ee573f0b973b" CallLetters="CHRW" EnterpriseStationId="CHRW-FM" />
+  <LogEvents>
+    <LogEvent UniversalIdentifier="b1210891-49bc-40d7-82b7-719e48732b9b" LogEventID="391252" LogGroupID="15531" Sequence="1.5" LogEventEntryTypeID="21" Description="" AirStarttime="2022-09-22T21:59:03Z" AirStarttimeLocal="2022-09-22 5:59:03 PM" AirStoptime="2022-09-22T21:59:03Z" AirStoptimeLocal="2022-09-22 5:59:03 PM" EntryValue1="0" EntryData="" ChainType="1" StatusCode="1" EditCode="204" ErrorCode="0" DynamicType="1" ParentTypeID="104" ParentName="History of Us" ParentDuration="0" ChildEventCount="0" IsChildEvent="false">
+      <LogGroup LogGroupID="15531" LogGroupTypeID="103" LogID="911" Sequence="1" Hour="0">
+        <LogHeader LogID="911" LogTypeID="0" Date="2022-09-22T00:00:00.0000000-04:00" />
+      </LogGroup>
+      <Task TaskCommandID="384" TaskType="16001" Enabled="true" Name="" ParamB="1" ParamString="&lt;BillBoardSend Title=&quot;History of Us&quot; Artist=&quot;Steve Kopp&quot; Composer=&quot;Live Music Show&quot; /&gt;" StationID="1" PlayerStreamID="1" Comment="LiveMetadata.Send [ Station: Radio Western   Title: History of Us, Artist: Steve Kopp, Composer: Live Music Show ]" PlayerRendererId="8" />
+    </LogEvent>
+  </LogEvents>
+</ZettaClipboard>
+<?xml version="1.0" encoding="utf-8"?>
+<ZettaClipboard Version="0.0.0" MessageType="0">
+  <Station StationID="1" Name="Radio Western" Active="true" Comment="Radio Western 94.9 FM Broadcast" StationRole="PRIMARY" UniversalIdentifier="6d8a0ad7-93f0-4c87-b8e0-ee573f0b973b" CallLetters="CHRW" EnterpriseStationId="CHRW-FM" />
+  <LogEvents>
+    <LogEvent UniversalIdentifier="e2c1e7ed-8b39-ed11-9026-dfd61a1620b1" LogEventID="568724" LogGroupID="25353" Sequence="6.75" LogEventEntryTypeID="106" Description="Western Gazette - RW Free Ads" AirStarttime="2022-09-22T21:59:27Z" AirStarttimeLocal="2022-09-22 5:59:27 PM" AirStoptime="2022-09-22T21:59:58Z" AirStoptimeLocal="2022-09-22 5:59:58 PM" EntryValue1="0" EntryData="" ChainType="1" StatusCode="1" EditCode="214" ErrorCode="0" TimingType="1" IsFixed="false" DynamicType="1" IsChildEvent="false">
+      <LogGroup LogGroupID="25353" LogGroupTypeID="101" LogID="1311" Sequence="17" Hour="17">
+        <LogHeader LogID="1311" LogTypeID="0" Date="2022-09-22T00:00:00.0000000-04:00" />
+      </LogGroup>
+      <AssetEvent>
+        <Asset AssetID="55378" AssetTypeID="3" Title="Western Gazette" AssetTypeName="Link" PrimaryResourceID="58086" Comment="LMacDonald, GGuicciardi, 2022" infoCreatedDate="2022-02-16T22:25:37.7970000+00:00" infoModifiedDate="2022-02-19T00:32:36.9900000+00:00" OverrideChainType="0" PlaybackMethodID="0" BedTypeID="0" IgnorePitching="false" UniversalIdentifier="74cf9c1a-fa9e-440e-bb02-e848c67a5775" MetadataScope="1">
+          <Resource ResourceID="58086" ResourceTypeID="1" ResourceFile="\\RW-ONAR1\Zetta\Media\58\58086~RW Free Ads - 2022-02-16 - Western Gazette Ad.m4a" Length="31" CheckSumMD5="-272030675248094704" Year="0" FileSize="2729560" StartOffset="0" infoCreatedDate="0001-01-01T05:00:00.0000000+00:00" infoModifiedDate="0001-01-01T05:00:00.0000000+00:00" UniversalIdentifier="71008f61-6581-4c8d-846e-5d173e639dae" FileMD5="C3EEF26C335BF9FAFC5E59E537E62000" DatabaseRootMeanSquare="3869" DatabaseStandardPeakMean="13912" DatabaseStandardPeak="12128" DatabaseAbsolutePeak="24287" DatabaseLoudnessBs1770rev0="-16.0254" DatabaseLoudnessBs1770rev3="-15.656">
+            <Transition ResourceLength="31" Filename="58086~RW Free Ads - 2022-02-16 - Western Gazette Ad.m4a" PlaybackMode="OnAir" FileMD5="C3EEF26C335BF9FAFC5E59E537E62000">
+              <PointOfInterestMarker Position="30.6538" Enabled="true" Duration="0" Value="0.3462" Details="" POIType="8" />
+              <PointOfInterestMarker Position="30.8322" Enabled="true" Duration="0.1678" Value="0" Details="" POIType="14" />
+              <VolumeMarker Position="0" Level="1" />
+              <VolumeMarker Position="31" Level="1" />
+            </Transition>
+          </Resource>
+          <Artist ArtistID="3457" ArtistTypeID="0" Name="RW Free Ads" />
+          <Album AlbumID="4675" Name="Western Gazette" />
+          <Product ProductID="2325" Name="Western Gazette" />
+          <Sponsor SponsorID="1572" Name="RW Free Ads" />
+          <AssetAttribute AttributeTypeID="10004" AttributeTypeName="Genre" AttributeValueName="RW Promos" />
+          <AssetAttribute AttributeTypeID="10003" AttributeTypeName="RW Release Date" AttributeValueName="2022-02-16" />
+          <StationSpecific StationSpecificId="90421" UniversalIdentifier="ceab787b-426c-4b3e-a52e-704c1526c5ac" IsActive="true" Station="Radio Western" StationID="1" StationUniversalIdentifier="6d8a0ad7-93f0-4c87-b8e0-ee573f0b973b">
+            <Category CategoryID="32" Name="Pm" AssetTypeID="3" CategoryGroup="10 Promos" LongName="Promos" />
+          </StationSpecific>
+        </Asset>
+      </AssetEvent>
+    </LogEvent>
+  </LogEvents>
+</ZettaClipboard><?xml version="1.0" encoding="utf-8"?>
+<ZettaClipboard Version="0.0.0" MessageType="0">
+  <Station StationID="1" Name="Radio Western" Active="true" Comment="Radio Western 94.9 FM Broadcast" StationRole="PRIMARY" UniversalIdentifier="6d8a0ad7-93f0-4c87-b8e0-ee573f0b973b" CallLetters="CHRW" EnterpriseStationId="CHRW-FM" />
+  <LogEvents>
+    <LogEvent UniversalIdentifier="e2c1e7ed-8b39-ed11-9026-dfd61a1620b1" LogEventID="568724" LogGroupID="25353" Sequence="6.75" LogEventEntryTypeID="106" Description="Western Gazette - RW Free Ads" AirStarttime="2022-09-22T21:59:27Z" AirStarttimeLocal="2022-09-22 5:59:27 PM" AirStoptime="2022-09-22T21:59:58Z" AirStoptimeLocal="2022-09-22 5:59:58 PM" EntryValue1="0" EntryData="" ChainType="1" StatusCode="2" EditCode="214" ErrorCode="0" TimingType="1" IsFixed="false" LastStarted="true" DynamicType="1" IsChildEvent="false">
+      <LogGroup LogGroupID="25353" LogGroupTypeID="101" LogID="1311" Sequence="17" Hour="17">
+        <LogHeader LogID="1311" LogTypeID="0" Date="2022-09-22T00:00:00.0000000-04:00" />
+      </LogGroup>
+      <AssetEvent>
+        <Asset AssetID="55378" AssetTypeID="3" Title="Western Gazette" AssetTypeName="Link" PrimaryResourceID="58086" Comment="LMacDonald, GGuicciardi, 2022" infoCreatedDate="2022-02-16T22:25:37.7970000+00:00" infoModifiedDate="2022-02-19T00:32:36.9900000+00:00" OverrideChainType="0" PlaybackMethodID="0" BedTypeID="0" IgnorePitching="false" UniversalIdentifier="74cf9c1a-fa9e-440e-bb02-e848c67a5775" MetadataScope="1">
+          <Resource ResourceID="58086" ResourceTypeID="1" ResourceFile="\\RW-ONAR1\Zetta\Media\58\58086~RW Free Ads - 2022-02-16 - Western Gazette Ad.m4a" Length="31" CheckSumMD5="-272030675248094704" Year="0" FileSize="2729560" StartOffset="0" infoCreatedDate="0001-01-01T05:00:00.0000000+00:00" infoModifiedDate="0001-01-01T05:00:00.0000000+00:00" UniversalIdentifier="71008f61-6581-4c8d-846e-5d173e639dae" FileMD5="C3EEF26C335BF9FAFC5E59E537E62000" DatabaseRootMeanSquare="3869" DatabaseStandardPeakMean="13912" DatabaseStandardPeak="12128" DatabaseAbsolutePeak="24287" DatabaseLoudnessBs1770rev0="-16.0254" DatabaseLoudnessBs1770rev3="-15.656">
+            <Transition ResourceLength="31" Filename="58086~RW Free Ads - 2022-02-16 - Western Gazette Ad.m4a" PlaybackMode="OnAir" FileMD5="C3EEF26C335BF9FAFC5E59E537E62000">
+              <PointOfInterestMarker Position="30.6538" Enabled="true" Duration="0" Value="0.3462" Details="" POIType="8" />
+              <PointOfInterestMarker Position="30.8322" Enabled="true" Duration="0.1678" Value="0" Details="" POIType="14" />
+              <VolumeMarker Position="0" Level="1" />
+              <VolumeMarker Position="31" Level="1" />
+            </Transition>
+          </Resource>
+          <Artist ArtistID="3457" ArtistTypeID="0" Name="RW Free Ads" />
+          <Album AlbumID="4675" Name="Western Gazette" />
+          <Product ProductID="2325" Name="Western Gazette" />
+          <Sponsor SponsorID="1572" Name="RW Free Ads" />
+          <AssetAttribute AttributeTypeID="10004" AttributeTypeName="Genre" AttributeValueName="RW Promos" />
+          <AssetAttribute AttributeTypeID="10003" AttributeTypeName="RW Release Date" AttributeValueName="2022-02-16" />
+          <StationSpecific StationSpecificId="90421" UniversalIdentifier="ceab787b-426c-4b3e-a52e-704c1526c5ac" IsActive="true" Station="Radio Western" StationID="1" StationUniversalIdentifier="6d8a0ad7-93f0-4c87-b8e0-ee573f0b973b">
+            <Category CategoryID="32" Name="Pm" AssetTypeID="3" CategoryGroup="10 Promos" LongName="Promos" />
+          </StationSpecific>
+        </Asset>
+      </AssetEvent>
+    </LogEvent>
+  </LogEvents>
+</ZettaClipboard>
+<?xml version="1.0" encoding="utf-8"?>
+<ZettaClipboard Version="0.0.0" MessageType="2">
+  <Station StationID="1" Name="Radio Western" Active="true" Comment="Radio Western 94.9 FM Broadcast" StationRole="PRIMARY" UniversalIdentifier="6d8a0ad7-93f0-4c87-b8e0-ee573f0b973b" CallLetters="CHRW" EnterpriseStationId="CHRW-FM" />
+  <LogEvents>
+    <LogEvent LogEventID="0" LogGroupID="0" Sequence="0" LogEventEntryTypeID="106" AirStarttime="2022-09-22T21:59:57.9528192Z" AirStarttimeLocal="2022-09-22 5:59:57 PM" StatusCode="2">
+      <AssetEvent>
+        <Asset AssetID="0" AssetTypeID="1" Title="History of Us" MetadataScope="1">
+          <Artist ArtistID="0" ArtistTypeID="0" Name="Steve Kopp" />
+          <Participant Name="Live Music Show" RoleId="2" />
+        </Asset>
+      </AssetEvent>
+    </LogEvent>
+  </LogEvents>
+</ZettaClipboard><?xml version="1.0" encoding="utf-8"?>
+<ZettaClipboard Version="0.0.0" MessageType="0">
+  <Station StationID="1" Name="Radio Western" Active="true" Comment="Radio Western 94.9 FM Broadcast" StationRole="PRIMARY" UniversalIdentifier="6d8a0ad7-93f0-4c87-b8e0-ee573f0b973b" CallLetters="CHRW" EnterpriseStationId="CHRW-FM" />
+  <LogEvents>
+    <LogEvent UniversalIdentifier="e2c1e7ed-8b39-ed11-9026-dfd61a1620b1" LogEventID="568724" LogGroupID="25353" Sequence="6.75" LogEventEntryTypeID="106" Description="Western Gazette - RW Free Ads" AirStarttime="2022-09-22T21:59:27Z" AirStarttimeLocal="2022-09-22 5:59:27 PM" AirStoptime="2022-09-22T21:59:58Z" AirStoptimeLocal="2022-09-22 5:59:58 PM" EntryValue1="0" EntryData="" ChainType="1" StatusCode="2" EditCode="214" ErrorCode="0" TimingType="1" IsFixed="false" DynamicType="1" IsChildEvent="false">
+      <LogGroup LogGroupID="25353" LogGroupTypeID="101" LogID="1311" Sequence="17" Hour="17">
+        <LogHeader LogID="1311" LogTypeID="0" Date="2022-09-22T00:00:00.0000000-04:00" />
+      </LogGroup>
+      <AssetEvent>
+        <Asset AssetID="55378" AssetTypeID="3" Title="Western Gazette" AssetTypeName="Link" PrimaryResourceID="58086" Comment="LMacDonald, GGuicciardi, 2022" infoCreatedDate="2022-02-16T22:25:37.7970000+00:00" infoModifiedDate="2022-02-19T00:32:36.9900000+00:00" OverrideChainType="0" PlaybackMethodID="0" BedTypeID="0" IgnorePitching="false" UniversalIdentifier="74cf9c1a-fa9e-440e-bb02-e848c67a5775" MetadataScope="1">
+          <Resource ResourceID="58086" ResourceTypeID="1" ResourceFile="\\RW-ONAR1\Zetta\Media\58\58086~RW Free Ads - 2022-02-16 - Western Gazette Ad.m4a" Length="31" CheckSumMD5="-272030675248094704" Year="0" FileSize="2729560" StartOffset="0" infoCreatedDate="0001-01-01T05:00:00.0000000+00:00" infoModifiedDate="0001-01-01T05:00:00.0000000+00:00" UniversalIdentifier="71008f61-6581-4c8d-846e-5d173e639dae" FileMD5="C3EEF26C335BF9FAFC5E59E537E62000" DatabaseRootMeanSquare="3869" DatabaseStandardPeakMean="13912" DatabaseStandardPeak="12128" DatabaseAbsolutePeak="24287" DatabaseLoudnessBs1770rev0="-16.0254" DatabaseLoudnessBs1770rev3="-15.656">
+            <Transition ResourceLength="31" Filename="58086~RW Free Ads - 2022-02-16 - Western Gazette Ad.m4a" PlaybackMode="OnAir" FileMD5="C3EEF26C335BF9FAFC5E59E537E62000">
+              <PointOfInterestMarker Position="30.6538" Enabled="true" Duration="0" Value="0.3462" Details="" POIType="8" />
+              <PointOfInterestMarker Position="30.8322" Enabled="true" Duration="0.1678" Value="0" Details="" POIType="14" />
+              <VolumeMarker Position="0" Level="1" />
+              <VolumeMarker Position="31" Level="1" />
+            </Transition>
+          </Resource>
+          <Artist ArtistID="3457" ArtistTypeID="0" Name="RW Free Ads" />
+          <Album AlbumID="4675" Name="Western Gazette" />
+          <Product ProductID="2325" Name="Western Gazette" />
+          <Sponsor SponsorID="1572" Name="RW Free Ads"/>
+          <AssetAttribute AttributeTypeID="10004" AttributeTypeName="Genre" AttributeValueName="RW Promos" />
+          <AssetAttribute AttributeTypeID="10003" AttributeTypeName="RW Release Date" AttributeValueName="2022-02-16" />
+          <StationSpecific StationSpecificId="90421" UniversalIdentifier="ceab787b-426c-4b3e-a52e-704c1526c5ac" IsActive="true" Station="Radio Western" StationID="1" StationUniversalIdentifier="6d8a0ad7-93f0-4c87-b8e0-ee573f0b973b">
+            <Category CategoryID="32" Name="Pm" AssetTypeID="3" CategoryGroup="10 Promos" LongName="Promos" />
+          </StationSpecific>
+        </Asset>
+      </AssetEvent>
+    </LogEvent>
+  </LogEvents>
+</ZettaClipboard>
