@@ -1,5 +1,5 @@
 cmake_minimum_required(VERSION 3.11)
-project(ExampleWithMinizip LANGUAGES CXX C)
+project(ExampleLibArchive LANGUAGES CXX C)
 set (CMAKE_CXX_STANDARD 17)
 
 set(TARGET_NAME ${PROJECT_NAME})
