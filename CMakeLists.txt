@@ -4,7 +4,9 @@ set (CMAKE_CXX_STANDARD 17)
 
 set(TARGET_NAME ${PROJECT_NAME})
 
-set(BUILD_SHARED_LIBS ON CACHE BOOL "Disable building shared-library")
+set(ENABLE_STATIC ON CACHE BOOL "Enable building static libraries for libarchive")
+SET(BUILD_SHARED_LIBS OFF CACHE BOOL "Disable building shared-library")
+# SET(BUILD_SHARED_LIBS ON CACHE BOOL "Disable building shared-library")
 SET(ENABLE_MBEDTLS OFF CACHE BOOL "ENABLE_MBEDTLS")
 SET(ENABLE_NETTLE OFF CACHE BOOL "ENABLE_NETTLE")
 SET(ENABLE_OPENSSL OFF CACHE BOOL "ENABLE_OPENSSL")
@@ -24,7 +26,7 @@ set(ENABLE_LIBGCC OFF CACHE BOOL "ENABLE_LIBGCC")
 
 set(ENABLE_CNG OFF CACHE BOOL "ENABLE_CNG")
 
-set(ENABLE_TAR ON CACHE BOOL "ENABLE_TAR")
+set(ENABLE_TAR OFF CACHE BOOL "ENABLE_TAR")
 set(ENABLE_TAR_SHARED OFF CACHE BOOL "ENABLE_TAR_SHARED")
 set(ENABLE_CPIO OFF CACHE BOOL "ENABLE_CPIO")
 set(ENABLE_CPIO_SHARED OFF CACHE BOOL "ENABLE_CPIO_SHARED")
@@ -53,4 +55,5 @@ include_directories(third_party/libarchive/libarchive)
 # Add your executable
 add_executable(${TARGET_NAME} main.c)
 
-target_link_libraries(${TARGET_NAME} archive)
+# target_link_libraries(${TARGET_NAME} archive)
+target_link_libraries(${TARGET_NAME} archive_static)
